@@ -1,0 +1,22 @@
+body {
+  background-image: url(/Users/danieltrotter/DevPoint_Labs/Week_2/restaurant_project/assets/images/main_background.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.menu-container {
+  width: 800px;
+  length: 730px;
+  background-color: #fff;
+}
+
+
+.header-container {
+  width: 800px;
+  length: 730px;
+  background-color: #fff;
+}
+
+.logo {
+
+}
