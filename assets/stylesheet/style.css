@@ -2,19 +2,31 @@ body {
   background-image: url(/Users/danieltrotter/DevPoint_Labs/Week_2/restaurant_project/assets/images/main_background.jpg);
   background-position: center;
   background-size: cover;
+  box-sizing: border-box;
+
 }
 
 .menu-container {
-  width: 800px;
+  display: block;
+  width: 1350px;
   length: 730px;
   background-color: #fff;
+  align-items: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+
 }
 
 
 .header-container {
-  width: 800px;
+  display: block;
+  width: 1350px;
   length: 730px;
   background-color: #fff;
+  color: black;
+  display: flex;
+  justify-content: center;
 }
 
 .logo {
